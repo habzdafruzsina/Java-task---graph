@@ -1,0 +1,9 @@
+4
+HUN Balu
+HUN Dagobert McCsip
+GER Timon
+ENG #Pumba
+false true true true
+true false true false
+false false false false
+false true false false
